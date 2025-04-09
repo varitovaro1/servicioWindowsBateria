@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.InstallLog
+   assemblypath = C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe
+Instalando el servicio estadoBateria...
+El servicio estadoBateria se ha instalado correctamente.
+Creando el origen de EventLog estadoBateria en el registro Application...
+Confirmando ensamblado 'C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.InstallLog
+   assemblypath = C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe
