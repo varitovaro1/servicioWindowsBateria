@@ -1,0 +1,10 @@
+C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe.config
+C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.exe
+C:\Users\cazad\Desktop\proyectos\estadoBateria\bin\Debug\estadoBateria.pdb
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.csproj.AssemblyReference.cache
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.ProjectInstaller.resources
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.estadoBateria.resources
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.csproj.GenerateResource.cache
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.csproj.CoreCompileInputs.cache
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.exe
+C:\Users\cazad\Desktop\proyectos\estadoBateria\obj\Debug\estadoBateria.pdb
