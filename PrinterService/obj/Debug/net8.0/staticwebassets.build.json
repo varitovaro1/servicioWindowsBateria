@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AA6UTIQ5sWKFZ8EGiHxsPCJMwCfLnT+yMU6zyCoiMcE=",
+  "Source": "PrinterService",
+  "BasePath": "_content/PrinterService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
